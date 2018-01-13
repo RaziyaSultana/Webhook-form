@@ -1,2 +1,2 @@
 # webhooks
-send email notification to the id provided by the front end...
+sends email alert to the id provided in the form
